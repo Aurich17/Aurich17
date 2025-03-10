@@ -1,42 +1,54 @@
-## Hi there 👋, I'm Ismael Chumpitaz!  
-
-🚀 **Programador Full Stack | Angular | C# | .NET | SQL Server**  
-
-### Sobre mí  
-Soy un apasionado del desarrollo de software con experiencia en **desarrollo web (frontend y backend)** y **aplicaciones de escritorio**. Me especializo en tecnologías como **Angular, C#, .NET y SQL Server**, desarrollando soluciones eficientes y escalables.  
-
-🔹 **Frontend:** Angular, HTML, CSS, TypeScript  
-🔹 **Backend:** C#, .NET, API REST  
-🔹 **Bases de datos:** SQL Server (procedimientos almacenados y optimización de consultas)  
-🔹 **Herramientas:** Postman, Git, Visual Studio, VS Code  
-🔹 **Aplicaciones de escritorio:** C#, .NET, VB  
+<h1 align="center">Hi there! 👋 I'm Ismael Chumpitaz</h1>
+<h3 align="center">🚀 Programador Full Stack | Angular | C# | .NET | SQL Server</h3>
 
 ---
 
-### 💼 Experiencia  
-📌 **Mirus Consultores** - Programador Web y Escritorio *(May 2023 - Ago 2024)*  
-📌 **Delﬁn Group** - Programador Frontend *(Jun 2022 - May 2023)*  
+### 🛠 Tecnologías y Herramientas  
 
-💡 **Algunos de mis logros incluyen:**  
-✅ Creación de mantenimientos personalizados con Angular y formularios dinámicos.  
-✅ Desarrollo de menús interactivos y responsivos.  
-✅ Integración y consumo de APIs RESTful.  
-✅ Desarrollo de aplicaciones web y de escritorio con C# y .NET.  
-✅ Optimización de bases de datos y consultas en SQL Server.  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlserver/sqlserver-plain.svg" alt="SQL Server" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50px"/>
+</div>
+
+---
+
+### 📌 Experiencia  
+
+🔹 **Delfin Group** *(May 2023 - Ago 2024)*  
+💻 *Programador Web y Escritorio*  
+✅ Desarrollo de aplicaciones web con **Angular y .NET**.  
+✅ Creación de mantenimientos personalizados con formularios dinámicos.  
+✅ Desarrollo de APIs RESTful e integración con bases de datos en **SQL Server**.  
+
+🔹 **Mirus Consultores** *(Jun 2022 - May 2023)*  
+💻 *Programador Frontend*  
+✅ Implementación de interfaces de usuario interactivas en **Angular**.  
+✅ Creación de menús responsivos y optimización de UX/UI.  
+✅ Consumo de APIs y validación con **Postman**.  
 
 ---
 
 ### 🌱 Actualmente estoy aprendiendo  
-🔹 **Nuevas herramientas y frameworks de desarrollo web**  
-🔹 **Optimización de bases de datos y mejores prácticas en backend**  
-🔹 **Patrones de diseño y arquitectura de software**  
+📌 **Optimización de bases de datos y mejores prácticas en backend**  
+📌 **Arquitectura de software y patrones de diseño**  
+📌 **Mejora en seguridad y autenticación en APIs REST**  
 
 ---
 
-### 📫 ¿Cómo contactarme?  
-✉️ **Email:** [chumpitazismael7@gmail.com](mailto:chumpitazismael7@gmail.com)  
+### 📫 Contacto  
+📧 **Email:** [chumpitazismael7@gmail.com](mailto:chumpitazismael7@gmail.com)  
 📍 **Ubicación:** Lima, Perú  
-
 📄 **[Ver mi CV aquí](./IsmaelCHT%20CV.pdf)**  
 
-¡Gracias por visitar mi perfil! 😊  
+---
+
+<h3 align="center">¡Gracias por visitar mi perfil! 😊🚀</h3>
